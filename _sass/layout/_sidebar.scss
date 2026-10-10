@@ -303,8 +303,12 @@
     }
   }
 
-  li {
-    white-space: nowrap;
+   li {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    max-width: 100%;
+    line-height: 1.5;
   }
 
   a {

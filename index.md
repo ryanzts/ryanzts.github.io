@@ -134,10 +134,3 @@ Understanding electrochemical reaction mechanisms through advanced analytical an
 </div>
 
 <p><a href="/publications/">View All Publications →</a></p>
-
-
-[DOI: 10.1021/jacs.5c01727](https://doi.org/10.1021/jacs.5c01727)
-
----
-
-[View All Publications](/publications/)

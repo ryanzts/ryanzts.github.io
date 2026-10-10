@@ -36,57 +36,105 @@ Understanding electrochemical reaction mechanisms through advanced analytical an
 
 ---
 
-# Selected Publications
 
-### 2026
+<h1>Selected Publications</h1>
 
-**1. Interfacial Lewis Acid Chemistry Enabled by Mesoporous MOFs Toward High-Performance Four-Electron Zinc–Iodine Batteries**
+<style>
+.compact-publications .pub-entry {
+  margin: 0 0 18px;
+  padding: 0 0 15px;
+  border-bottom: 1px solid var(--global-border-color);
+}
 
-F. Yang, et al., including **T. Zhang** (Co-corresponding author).
+.page__content .compact-publications .pub-title {
+  font-size: 1em;
+  font-weight: 700;
+  line-height: 1.45;
+  margin: 0 0 5px;
+}
 
-*Angewandte Chemie International Edition*, **65**, e3627132 (2026).
+.page__content .compact-publications p {
+  font-size: 0.88em;
+  line-height: 1.5;
+  margin: 3px 0 !important;
+}
 
-[DOI: 10.1002/anie.3627132](https://doi.org/10.1002/anie.3627132)
+.compact-publications .pub-role {
+  color: var(--global-text-color-light);
+  font-size: 0.88em;
+}
 
-**2. Engineering Solvent–Anion Interactions via Asymmetric Ethers for 200 Wh kg⁻¹ Low-Temperature Anode-Free Sodium Pouch Cells**
+.compact-publications .pub-link {
+  margin-left: 8px;
+}
+</style>
 
-F. Huang, H. Zhang, **T. Zhang**, et al.
+<div class="compact-publications">
 
-*Angewandte Chemie International Edition*, **65**, e3780082 (2026).
+<div class="pub-entry">
+  <h3 class="pub-title">
+    1. Interfacial Lewis Acid Chemistry Enabled by Mesoporous MOFs Toward High-Performance Four-Electron Zinc–Iodine Batteries
+  </h3>
+  <p>F. Yang, <strong>T. Zhang</strong>, et al.
+    <span class="pub-role">(Co-corresponding author)</span>
+  </p>
+  <p><em>Angewandte Chemie International Edition</em>, 2026.
+    <a class="pub-link" href="https://doi.org/10.1002/anie.3627132">DOI ↗</a>
+  </p>
+</div>
 
-**Co-corresponding author**
+<div class="pub-entry">
+  <h3 class="pub-title">
+    2. Engineering Solvent–Anion Interactions via Asymmetric Ethers for 200 Wh kg⁻¹ Low-Temperature Anode-Free Sodium Pouch Cells
+  </h3>
+  <p>F. Huang, <strong>T. Zhang</strong>, et al.
+    <span class="pub-role">(Co-corresponding author)</span>
+  </p>
+  <p><em>Angewandte Chemie International Edition</em>, 2026.
+    <a class="pub-link" href="https://doi.org/10.1002/anie.3780082">DOI ↗</a>
+  </p>
+</div>
 
-[DOI: 10.1002/anie.3780082](https://doi.org/10.1002/anie.3780082)
+<div class="pub-entry">
+  <h3 class="pub-title">
+    3. High-Energy Aqueous Sulfur Battery Chemistry
+  </h3>
+  <p>X. Yu, <strong>T. Zhang</strong>, et al.
+    <span class="pub-role">(Co-first author)</span>
+  </p>
+  <p><em>Advanced Materials</em>, first published online in 2025.
+    <a class="pub-link" href="https://doi.org/10.1002/adma.202507561">DOI ↗</a>
+  </p>
+</div>
 
-### 2025
+<div class="pub-entry">
+  <h3 class="pub-title">
+    4. Recyclable Biomacromolecular Hydrogel Electrolytes for Zn-Based Aqueous Batteries
+  </h3>
+  <p><strong>T. Zhang</strong>, et al.
+    <span class="pub-role">(First author)</span>
+  </p>
+  <p><em>National Science Review</em>, 12, nwaf383 (2025).
+    <a class="pub-link" href="https://doi.org/10.1093/nsr/nwaf383">DOI ↗</a>
+  </p>
+</div>
 
-**3. Recyclable Biomacromolecular Hydrogel Electrolytes for Zn-Based Aqueous Batteries**
+<div class="pub-entry">
+  <h3 class="pub-title">
+    5. Aqueous-S vs Organic-S Battery: Volmer-Step Involved Sulfur Reaction
+  </h3>
+  <p><strong>T. Zhang</strong>, et al.
+    <span class="pub-role">(First author)</span>
+  </p>
+  <p><em>Journal of the American Chemical Society</em>, 147, 11501–11510 (2025).
+    <a class="pub-link" href="https://doi.org/10.1021/jacs.5c01727">DOI ↗</a>
+  </p>
+</div>
 
-**T. Zhang**, et al.
+</div>
 
-*National Science Review*, **12**, nwaf383 (2025).
+<p><a href="/publications/">View All Publications →</a></p>
 
-**First author**
-
-[DOI: 10.1093/nsr/nwaf383](https://doi.org/10.1093/nsr/nwaf383)
-
-**4. High-Energy Aqueous Sulfur Battery Chemistry**
-
-X. Yu, **T. Zhang**, et al.
-
-*Advanced Materials*, first published online in 2025.
-
-**Co-first author**
-
-[DOI: 10.1002/adma.202507561](https://doi.org/10.1002/adma.202507561)
-
-**5. Aqueous-S vs Organic-S Battery: Volmer-Step Involved Sulfur Reaction**
-
-**T. Zhang**, et al.
-
-*Journal of the American Chemical Society*, **147**, 11501–11510 (2025).
-
-**First author**
 
 [DOI: 10.1021/jacs.5c01727](https://doi.org/10.1021/jacs.5c01727)
 

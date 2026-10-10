@@ -129,5 +129,3 @@ Author lists are abbreviated.
 - Xianghui Scholarship, Fudan University
 - Outstanding Student, Fudan University
 - HDR Best Presentation, International Conference on Materials for Green Future
-
-*English names of grants and awards are translations of the original Chinese CV where no official English name was supplied.*

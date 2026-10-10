@@ -10,9 +10,9 @@ redirect_from:
 
 # About Me
 
-Tengsheng Zhang is a Postdoctoral Researcher at the Advanced Materials Laboratory, Fudan University, and a Visiting Scholar at the School of Materials Science and Engineering, Nanyang Technological University, Singapore.
+Zhang Tengsheng is a Postdoctoral Researcher at the Advanced Materials Laboratory, Fudan University, and a Visiting Scholar at the School of Materials Science and Engineering, Nanyang Technological University, Singapore.
 
-Zhang received a Ph.D. in Physical Chemistry from Fudan University in 2025. Research interests include **aqueous batteries, redox reactions, and electrochemical analysis**, with a particular focus on developing emerging rechargeable battery chemistries and understanding their underlying electrochemical reaction mechanisms.
+Tengsheng received a Ph.D. in Physical Chemistry from Fudan University in 2025. Research interests include **aqueous batteries, redox reactions, and electrochemical analysis**, with a particular focus on developing emerging rechargeable battery chemistries and understanding their underlying electrochemical reaction mechanisms.
 
 The research integrates electrochemical investigations with advanced *in situ* characterization techniques, including synchrotron-based spectroscopy, X-ray diffraction, Raman spectroscopy, and other complementary analytical methods.
 
